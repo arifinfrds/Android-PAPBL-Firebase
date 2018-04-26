@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "967335642856",
+    "firebase_url": "https://codechallangeutsarifin.firebaseio.com",
+    "project_id": "codechallangeutsarifin",
+    "storage_bucket": "codechallangeutsarifin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967335642856:android:2f64b3276a290207",
+        "android_client_info": {
+          "package_name": "com.arifinfrds.codechallangeutsarifin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967335642856-hqhvec9g2uss01c1ct3htt2s0hb021a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arifinfrds.codechallangeutsarifin",
+            "certificate_hash": "27e91ca8fdbce07095a772e81bd8cd91fceade04"
+          }
+        },
+        {
+          "client_id": "967335642856-hthpc5jmsk9din57ae7scvgvknecn7oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYVwmWZsPvniNxZWO_9R6YWvyw3hazJZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967335642856-hthpc5jmsk9din57ae7scvgvknecn7oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
